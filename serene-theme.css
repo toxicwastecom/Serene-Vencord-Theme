@@ -75,8 +75,8 @@
 	/* direct messages moon icon */
 	/* change to block to show, none to hide */
 	--discord-icon: none; /* discord icon */
-	--moon-icon: block; /* moon icon */
-	--moon-icon-url: url('https://upload.wikimedia.org/wikipedia/commons/c/c4/Font_Awesome_5_solid_moon.svg'); /* custom icon url */
+	--moon-icon: showz; /* moon icon */
+	--moon-icon-url: url('https://raw.githubusercontent.com/krushna06/Portfolio-Latest/main/assets/img/favicon/favicon.ico?token=GHSAT0AAAAAACVLXDJETE7JOPIQFM5UDKIKZVGEHNA'); /* custom icon url */
 	--moon-icon-size: auto;
 
 	/* filter uncolorable elements to fit theme */
