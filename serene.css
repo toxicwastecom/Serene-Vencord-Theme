@@ -759,7 +759,7 @@ button.button_dd4f85 /* small buttons */,
     border-right-color: transparent !important;
     
     /* Outline effect */
-    box-shadow: 0 0 0 1.5px rgb(185, 163, 233); /* Adjust the spread value (4px) as needed */
+    box-shadow: 0 0 0 1.5px rgb(185, 163, 233);
 }
 
 

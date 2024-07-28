@@ -84,4 +84,14 @@
 	--login-bg-filter: none; /* login background artwork */
 	--green-to-accent-3-filter: none; /* add friend page explore icon */
 	--blurple-to-accent-3-filter: none; /* add friend page school icon */
+
+	.embedFull_b0068a {
+		border: 4px solid var(--bg-2);
+		border-top-color: transparent !important;
+		border-bottom-color: transparent !important;
+		border-right-color: transparent !important;
+		
+		/* Outline effect */
+		box-shadow: 0 0 0 1.5px rgb(152, 146, 168);
+	}
 }
